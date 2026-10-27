@@ -1,0 +1,16 @@
+html{
+ box-sizing: border-box; 
+ 
+}
+body{margin: 0;}
+figure{margin-left: 0;
+ margin-right: 0;
+}
+.meditacion{
+ display: block;
+ max-width: 100%;
+ width: 90%;
+ margin-left: auto;
+ margin-right: auto;
+}
+figcaption{text-align: center;}

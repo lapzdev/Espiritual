@@ -30,3 +30,53 @@ img {
   max-width: 100%;   /* clave en móvil: no se sale de la pantalla */
   height: auto;      /* mantiene proporción */
 }
+/* 1. Eliminar el marcador (triángulo) por defecto */
+.bar-details summary {
+  list-style: none; /* Compatibilidad general */
+  cursor: pointer;
+}
+.bar-details summary::-webkit-details-marker {
+  display: none; /* Chrome, Safari, Edge */
+}
+.bar-details summary::marker {
+  content: ""; /* Firefox y navegadores modernos */
+}
+
+/* 2. Estilo de "barra" para el summary */
+.bar-details summary {
+  padding: 12px 16px;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-weight: 600;
+  color: #333;
+  transition: background-color 0.2s ease;
+  position: relative; /* Para posicionar un icono personalizado */
+}
+
+/* 3. Efecto hover (opcional) */
+.bar-details summary:hover {
+  background-color: #eaeaea;
+}
+
+/* 4. Icono personalizado (opcional) */
+.bar-details summary::after {
+  content: "+";
+  position: absolute;
+  right: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.5em;
+  color: #666;
+}
+.bar-details[open] summary::after {
+  content: "−"; /* Cambia a signo menos al abrir */
+}
+
+/* 5. Estilo para el contenido desplegable */
+.bar-details .content {
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-top: none; /* Para que se una visualmente a la barra */
+  background-color: #fff;
+}
