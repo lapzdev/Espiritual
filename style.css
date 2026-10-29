@@ -45,19 +45,19 @@ img {
 /* 2. Estilo de "barra" para el summary */
 .bar-details summary {
   padding: 12px 16px;
-  background-color: #f5f5f5;
+  background-color: #2C37BA;
   border: 1px solid #ddd;
   border-radius: 4px;
   font-weight: 600;
-  color: #333;
+  color: #E8DE0E;
   transition: background-color 0.2s ease;
   position: relative; /* Para posicionar un icono personalizado */
 }
 
 /* 3. Efecto hover (opcional) */
-.bar-details summary:hover {
-  background-color: #eaeaea;
-}
+/* .bar-details summary:hover {
+  background-color: #BB5E17;
+} */
 
 /* 4. Icono personalizado (opcional) */
 .bar-details summary::after {
