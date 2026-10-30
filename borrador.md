@@ -66,3 +66,49 @@ La psicología moderna reconoce la espiritualidad como un factor clave para la s
     </div>
   </details>
 </div>
+
+Documentos
+Guía de práctica meditativa
+
+1. Descanso y preparación inicial
+
+Este paso es el puente entre el ajetreo del día a día y el silencio interior. Su objetivo es crear un "espacio sagrado" y una transición mental suave.
+
+· Adecuación del entorno: Buscar un lugar tranquilo, limpio y ordenado. La temperatura debe ser agradable (ni muy fría ni muy calurosa). Si es posible, apagar notificaciones, teléfonos y cualquier distracción digital.
+· Gestión del tiempo: Establecer un tiempo definido para la práctica (por ejemplo, 15 o 20 minutos). Esto evita la ansiedad de mirar el reloj y permite entregarse plenamente.
+· Descompresión mental: Al sentarse, se recomienda hacer una pequeña "descarga" de los pensamientos del día. No se trata de no pensar, sino de dejar que los pensamientos de las tareas pendientes se asienten, como el sedimento en un vaso de agua.
+· Intención de descanso: Adoptar una actitud de soltar y descansar. No es un esfuerzo por "hacer" algo, sino por "dejar de hacer".
+
+2. Preparación ética y voluntaria
+
+La meditación no es solo una técnica, es una actitud ante la vida. Este paso asegura que la práctica esté fundamentada en una buena motivación.
+
+· Establecer la intención (Voluntad): Preguntarse internamente: "¿Para qué me siento a meditar?". Las intenciones más fructíferas suelen ser el autoconocimiento, la paz interior, la compasión hacia uno mismo y hacia los demás, o la búsqueda de claridad.
+· Fundamento ético: En la tradición meditativa, la mente se aquieta más fácilmente si no hay conflictos morales. Esto implica cultivar una actitud de no dañar (hacia uno mismo o los demás), honestidad y bondad.
+· Desapego a los resultados: Aunque hay una intención, es crucial soltar la expectativa de obtener un resultado específico (como "tener visiones" o "relajarme completamente"). La práctica se hace por sí misma, sin expectativas rígidas.
+
+3. Purificación del cuerpo y la mente
+
+Este paso busca limpiar el "ruido" físico y mental para que la atención pueda fluir sin obstáculos.
+
+· Nivel físico: Evitar comidas pesadas antes de meditar. Se recomienda haber digerido bien los alimentos y evitar el consumo de estimulantes (cafeína en exceso) o sustancias que alteren la percepción. La higiene personal también ayuda a sentirse "limpio" y dispuesto.
+· Nivel mental: Realizar un ejercicio de "despeje". Si hay una preocupación muy fuerte, se puede escribir en un papel antes de meditar, dejando la nota a un lado simbólicamente. Otra técnica es la reflexión breve sobre la impermanencia de los pensamientos: reconocer que los pensamientos vienen y van, y que no somos nuestros pensamientos.
+· Soltar tensiones: Hacer un escaneo mental del cuerpo para identificar zonas de tensión (mandíbula, hombros, frente) y conscientemente relajarlas antes de comenzar.
+
+4. Posición y movimiento corporal
+
+El cuerpo es el vehículo de la meditación. Una postura adecuada permite que la energía fluya y que la mente se mantenga alerta pero relajada.
+
+· El arraigo (Grounding): Sentarse de manera estable. Las opciones más comunes son el loto (o medio loto), sentarse sobre un cojín con las rodillas apoyadas en el suelo (postura del birmano), o en una silla con los pies bien plantados en el suelo.
+· Alineación de la columna: La espalda debe estar recta pero no rígida, como una torre. La cabeza ligeramente inclinada hacia abajo, con la barbilla recogida. Esto favorece la circulación de la energía y evita el sueño.
+· Las manos y los ojos: Las manos pueden descansar sobre las rodillas o en el regazo (mudras). Los ojos pueden estar cerrados o entreabiertos (mirando suavemente hacia el suelo a unos metros de distancia) para evitar la somnolencia.
+· Movimiento consciente: Antes de iniciar, se puede hacer un breve estiramiento de cuello, hombros y espalda. Durante la práctica, si hay molestia, se permite un ajuste lento y consciente de la postura, sin perder la atención.
+
+5. Práctica de respiración y meditación
+
+Es el núcleo de la práctica, donde la atención se ancla en el presente.
+
+· La respiración natural: No se trata de controlar la respiración (hacerla más profunda o más lenta artificialmente), sino de observarla tal como es. Sentir el aire entrando por las fosas nasales, el movimiento del pecho o del abdomen.
+· El ancla de la atención: Usar la respiración como un ancla. Cada vez que la mente se distraiga (y lo hará constantemente), el practicante debe notar la distracción sin juzgarse, y amablemente, traer la atención de vuelta a la respiración.
+· Técnicas complementarias: Se pueden usar técnicas como el conteo de respiraciones (contar hasta 10 y volver a empezar) o la recitación de un mantra (una palabra o frase que se repite internamente) para enfocar la mente.
+· Cierre de la práctica: Al finalizar, no levantarse bruscamente. Se recomienda dedicar unos minutos a respirar profundamente, mover suavemente los dedos de las manos y los pies, y ofrecer una breve dedicatoria (pensar en llevar esa paz a la vida diaria y hacia los demás).
